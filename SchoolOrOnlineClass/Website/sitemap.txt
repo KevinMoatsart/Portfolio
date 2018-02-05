@@ -1,0 +1,16 @@
+www.example.com
+www.index.html
+www.majorasmaskreview.html
+www.devhome.html
+www.fromsoftware.html
+www.metroidprimereview.html
+www.newgames.html
+www.nintendo.html
+www.retrostudios.html
+www.reviewhome.html
+www.sony.html
+www.supermario64review.html
+www.aboutus.html
+www.contact.html
+www.job.html
+www.reserve.html

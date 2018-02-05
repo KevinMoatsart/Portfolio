@@ -1,0 +1,472 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201605 will be lost/reset.
+# Last config file used to build this data file was /home1/kevinmoat/tmp/awstats/awstats.kevinmoatsart.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2690                
+POS_VISITOR 8638                
+POS_DAY 12580               
+POS_DOMAIN 3501                
+POS_LOGIN 3963                
+POS_ROBOT 4118                
+POS_WORMS 4510                
+POS_EMAILSENDER 4641                
+POS_EMAILRECEIVER 4784                
+POS_SESSION 13100               
+POS_SIDER 13297               
+POS_FILETYPES 4919                
+POS_DOWNLOADS 5135                
+POS_OS 5212                
+POS_BROWSER 5473                
+POS_SCREENSIZE 6201                
+POS_UNKNOWNREFERER 6275                
+POS_UNKNOWNREFERERBROWSER 6606                
+POS_ORIGIN 6900                
+POS_SEREFERRALS 7041                
+POS_PAGEREFS 7206                
+POS_SEARCHWORDS 7503                
+POS_KEYWORDS 7655                
+POS_MISC 2352                
+POS_ERRORS 7714                
+POS_CLUSTER 3819                
+POS_SIDER_404 7841                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160601004341 1 0 13428549481602
+FirstTime 20160513204340
+LastTime 20160531110929
+LastUpdate 20160601232913 1 0 0 0 0
+TotalVisits 141                 
+TotalUnique 92                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 101                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 112 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 13 29 3037488 14 21 118138
+1 21 73 16728332 30 42 379732
+2 17 46 10139394 74 88 168316
+3 15 83 26386453 36 47 156750
+4 7 17 3037666 48 51 37770
+5 17 41 9989915 37 42 81888
+6 3 3 17663 35 38 73067
+7 5 17 5895427 30 41 354007
+8 7 13 2974119 16 19 2372989
+9 21 53 6013878 23 32 135806
+10 10 30 6039472 51 57 64989
+11 5 8 20030 25 33 99520
+12 0 0 0 18 21 18435
+13 35 106 19408874 52 65 66837
+14 16 44 7067266 18 29 187912
+15 7 31 3260757 63 70 101310
+16 10 20 3055151 1 5 79002
+17 9 20 3049656 21 24 74925
+18 13 19 3006008 47 56 606666
+19 15 55 12685623 35 48 2737722
+20 19 55 6806575 91 98 23626
+21 22 80 6990878 62 70 25347
+22 34 117 21772213 2 12 14225
+23 19 52 3042730 25 49 930954
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 16
+us 260 659 83134318
+cn 23 156 53486329
+ca 9 25 5982406
+fr 7 17 3025772
+nl 7 21 3713127
+al 6 26 4005356
+de 6 26 6027756
+gb 4 16 5889480
+it 4 15 3088198
+no 3 13 3013878
+au 3 13 3013878
+pl 3 14 3082489
+es 2 8 2944740
+jp 1 1 5947
+ru 1 1 5947
+ro 1 1 5947
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+googlebot 63 550358 20160531230819 0
+no_user_agent 59 41451 20160531051711 0
+googlebot\-image 21 6770099 20160522183056 0
+spider 8 55722 20160531014914 0
+bot[\s_+:,\.\;\/\\-] 8 45479 20160531214121 0
+crawl 2 11894 20160524092800 0
+curl 1 5947 20160530053058 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 80 103383 0 0
+png 310 155004248 0 0
+ttf 53 789096 0 0
+pdf 3 205833 0 0
+html 287 1404301 0 0
+js 79 17810 0 0
+jpg 189 22357217 0 0
+jpeg 11 543680 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/onlineresume.pdf 7 0 480277
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+linuxandroid 6 6
+winlong 49 49
+winxp 8 8
+ios_iphone 213 48
+winnt 319 78
+macosx5 2 2
+linux 34 17
+win7 153 42
+macosx 173 68
+winunknown 1 1
+win8 2 2
+win8.1 27 6
+Unknown 8 7
+macosx8 16 5
+macosx7 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 39
+firefox44.0 1 1
+android 6 6
+chrome36.0.1985.125 1 1
+firefox24.0 1 1
+msie8.0 103 59
+chrome50.0.2661.94 33 9
+msie7.0 4 4
+chrome50.0.2661.102 131 31
+firefox16.0 1 1
+firefox23.0 1 1
+chrome27.0.1453 8 2
+firefox41.0 37 0
+safari8.0 25 7
+wget 2 1
+msie9.0 7 3
+chrome49.0.2623.112 15 4
+Unknown 4 4
+chrome45.0.2454.99 1 1
+safari9.0.3 26 6
+firefox3.0 1 1
+safari9.1 26 6
+safari6.0 63 9
+firefox38.0 1 1
+firefox46.0 283 69
+chrome49.0.2623.75 1 1
+firefox45.0 9 3
+chrome19.0.1063.0 1 1
+safari9.0 23 6
+firefox33.0 1 1
+mozilla 10 6
+chrome45.0.2454.101 1 1
+firefox14.0.1 6 6
+firefox3.6.28 1 1
+seamonkey 1 1
+msie10.0 1 1
+chrome11.0.696.71 4 4
+safari 169 77
+firefox3.6.13 2 2
+chrome21.0.1180.89 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+FeedBurner/1.0_(http://www.FeedBurner.com) 20160514103024
+Mozilla/5.0_(compatible;_SiteExplorer/1.0b;__http://siteexplorer.info/) 20160522114937
+Mozilla/4.0_(compatible;_http://search.thunderstone.com/texis/websearch/about.html) 20160526133630
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+python-requests/2.7.0_CPython/2.7.6_Windows/2008ServerR2 20160525091305
+FeedBurner/1.0_(http://www.FeedBurner.com) 20160514103024
+python-requests/2.4.3_CPython/2.7.9_Linux/3.14.32-xxxx-grs-ipv6-64 20160521022843
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 189 191
+From1 2 2
+From2 7 11
+From3 22 22
+From4 120 786
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 6 10
+bing 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://forum.unity3d.com/threads/c-programmer-looking-for-full-time-position-low-pay-is-okay.404440/ 21 21
+https://mawords.com/kevinmoatsart.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 1 134
+206 10 546266
+406 14 3164
+404 759 860213
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 24
+/th1s_1s_a_4o4.html 2 http://www.google.com/url
+/robots.txt 41 -
+/wordpress/ 51 -
+/joomla/ 49 -
+/admin.php 3 -
+/drupal/ 49 -
+/joom/ 50 -
+/mobile/ 8 -
+/http%3A%2F%2Fwww%2Ekevinmoatsart%2Ecom%2Fabout%2Ehtml 1 -
+/test/ 50 -
+/new/ 48 -
+/shop/ 48 -
+/admin/index.php 1 -
+/blog/ 51 -
+/site/ 49 -
+/administrator/ 1 http://kevinmoatsart.com/administrator/
+/portal/ 48 -
+/wp/ 51 -
+/m/ 8 -
+/1/ 49 -
+/typo3/index.php 1 -
+/old/ 49 -
+/wp-login.php 1 http://kevinmoatsart.com/wp-login.php
+/blogs/ 50 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 101
+68.50.87.70 107 315 24709918 20160531110929
+104.238.194.164 26 26 152308 20160525215546
+23.239.196.71 8 8 46864 20160519215837
+50.117.89.108 8 8 46864 20160516165946
+80.78.68.235 6 26 4005356 20160516153240
+50.249.203.145 6 20 3707180 20160526142713
+83.163.3.181 6 20 3707180 20160514140101
+70.214.74.149 6 24 2956634 20160517153255
+69.58.178.56 5 5 33808 20160520181302
+65.49.54.70 5 5 29379 20160515062724
+178.249.190.51 4 15 3088198 20160514134801
+206.183.1.74 4 5 28135 20160526133630
+54.160.111.246 4 14 3273107 20160520214822
+68.44.207.182 4 15 3088198 20160525203512
+219.142.42.9 4 4 23788 20160524174747
+75.60.174.196 4 16 5889480 20160514224534
+38.100.53.81 4 4 23788 20160514054105
+83.30.60.238 3 14 3082489 20160516220941
+73.246.98.71 3 11 397505 20160525142521
+199.87.86.206 3 13 3013878 20160526224000
+79.234.16.119 3 13 3013878 20160521170501
+174.61.95.185 3 13 3013878 20160524191833
+80.138.247.249 3 13 3013878 20160514102147
+70.198.137.45 3 14 2838887 20160524132419
+168.91.255.101 3 13 3013878 20160526134643
+72.5.65.214 2 5 14083 20160515115224
+69.175.22.218 1 3 7862 20160531014911
+162.244.33.8 1 1 5947 20160515001912
+150.70.173.7 1 1 5947 20160515091800
+121.42.0.61 2 14 5851904 20160520025054
+37.48.74.42 1 1 5947 20160515090808
+82.235.56.238 1 1 0 20160515090632
+192.237.216.89 1 1 5947 20160525183834
+74.125.183.160 1 1 0 20160514103024
+121.42.0.55 1 7 2925952 20160523032242
+166.78.181.113 1 1 5947 20160514171425
+121.42.0.71 1 7 2925952 20160518032706
+208.82.13.178 2 8 2944740 20160516075236
+207.114.242.246 0 1 243602 
+121.42.0.59 1 7 2925952 20160523051700
+52.71.155.178 1 1 9797 20160521185642
+208.43.225.85 1 1 5947 20160522114937
+38.88.203.210 2 8 2944740 20160524144328
+64.250.87.88 2 8 2944740 20160514224243
+199.16.196.181 1 1 5947 20160516175554
+95.85.80.182 1 1 5947 20160520031258
+86.122.244.157 1 1 5947 20160521190240
+208.42.251.123 1 1 5947 20160516082541
+199.30.228.157 1 1 5947 20160516045351
+167.114.233.118 1 1 5947 20160514160743
+50.116.16.218 1 1 5947 20160516112553
+50.135.202.53 3 13 3013878 20160515003126
+54.67.45.222 1 1 5947 20160523194540
+199.16.196.183 0 1 274 
+65.190.80.194 3 13 3013878 20160516043920
+23.239.208.210 2 2 11716 20160515054733
+66.102.8.220 1 2 100178 20160530053059
+66.102.8.225 1 3 2599045 20160530053059
+121.42.0.72 0 2 314734 
+121.42.0.77 0 8 1603876 
+70.198.135.98 2 2 0 20160526202541
+91.121.222.52 1 1 0 20160521022843
+121.42.0.56 1 7 2925952 20160518032703
+40.76.194.220 1 1 5947 20160525091305
+66.249.85.236 1 1 5947 20160516030831
+207.114.242.245 0 1 233344 
+121.42.0.74 0 8 1441664 
+184.75.84.115 3 13 3013878 20160521163101
+121.42.0.81 0 16 2873070 
+222.76.215.26 1 1 5947 20160517051646
+5.39.80.97 1 1 5947 20160516225726
+121.42.0.80 0 3 396124 
+83.243.254.206 3 13 3013878 20160514194506
+107.77.89.79 2 8 2944740 20160514095636
+121.42.0.57 1 7 2925952 20160522010452
+107.15.115.39 2 8 2944740 20160516072158
+208.43.251.178 1 1 5947 20160516095057
+199.30.228.130 1 1 5947 20160514045819
+69.175.67.58 1 3 7862 20160530015319
+121.42.0.62 2 14 5851904 20160521014950
+86.188.30.32 2 8 2944740 20160516084103
+54.214.137.125 1 1 5947 20160515090653
+115.166.12.90 3 13 3013878 20160518030154
+121.42.0.58 2 14 5851904 20160523051702
+121.42.0.64 3 21 8777856 20160522010447
+193.252.194.202 1 1 5947 20160521073008
+218.241.108.158 2 2 11894 20160528031205
+207.114.242.244 2 6 2467794 20160524231717
+121.42.0.54 2 14 5851904 20160521014948
+70.198.140.55 2 2 0 20160525144609
+2.222.153.195 2 8 2944740 20160516182856
+158.69.228.18 3 3 17841 20160521231026
+74.125.182.163 1 1 0 20160514103024
+70.198.129.181 2 2 0 20160518131606
+193.248.52.197 3 13 3013878 20160514135728
+66.102.8.215 0 3 245517 
+208.184.112.74 1 3 7862 20160515090702
+75.149.221.170 1 1 5947 20160520142200
+96.20.230.4 3 13 3013878 20160515100304
+198.101.238.203 2 2 11894 20160525163437
+88.25.48.216 2 8 2944740 20160515194821
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 19
+20160513 43 177 17163756 2
+20160514 72 211 31526140 20
+20160515 35 66 9117904 19
+20160516 40 123 28862583 22
+20160517 23 63 9927932 9
+20160518 13 38 9297054 7
+20160519 10 27 6770380 6
+20160520 21 46 9762739 10
+20160521 15 51 12547024 10
+20160522 4 22 6974523 4
+20160523 8 35 10470705 6
+20160524 12 45 11754139 5
+20160525 14 33 3515260 7
+20160526 18 53 9763071 5
+20160527 1 1 5947 1
+20160528 3 3 5947 2
+20160529 2 2 0 1
+20160530 3 11 2952602 3
+20160531 3 5 7862 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 3
+5mn-15mn 1
+0s-30s 127
+2mn-5mn 2
+30s-2mn 7
+15mn-30mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 149 802641 119 62
+/portfolio.html 84 313397 21 37
+/fonts/major_force/majorforce.ttf 53 789096 1 15
+/about.html 41 224888 0 25
+/hobbies.html 13 63375 0 2
+END_SIDER

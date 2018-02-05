@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pieces">
+        <item>Chess Piece - King</item>
+        <item>Chess Piece - Queen</item>
+        <item>Chess Piece - Bishop</item>
+        <item>Chess Piece - Knight</item>
+        <item>Chess Piece - Rook</item>
+        <item>Chess Piece - Pawn</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>volutpat commodo sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec</item>
+        <item>condimentum vitae sapien pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis</item>
+        <item>pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate</item>
+        <item>amet massa vitae tortor condimentum lacinia quis vel eros donec ac odio tempor orci dapibus</item>
+        <item>quis imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero nunc consequat</item>
+        <item>imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero nunc consequat interdum</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,17 @@
+D:\Programming\TipCalculator\TipCalculator\TipCalculator\bin\Debug\TipCalculator.dll
+D:\Programming\TipCalculator\TipCalculator\TipCalculator\bin\Debug\TipCalculator.pdb
+D:\Programming\TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Core.dll
+D:\Programming\TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Programming\TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Programming\TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Programming\TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Core.xml
+D:\Programming\TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Programming\TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Programming\TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Programming\TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.csprojResolveAssemblyReference.cache
+D:\Programming\TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.MainPage.xaml.g.cs
+D:\Programming\TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.App.xaml.g.cs
+D:\Programming\TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.dll
+D:\Programming\TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.pdb
+D:\Programming\TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.dll.mdb
+D:\Programming\TipCalculator\TipCalculator\TipCalculator\bin\Debug\TipCalculator.dll.mdb

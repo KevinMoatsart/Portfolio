@@ -1,0 +1,114 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Portfolio\Portfolio\CompletedProjects\3D Cube Explorer Co-op\va1.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Portfolio\Portfolio\CompletedProjects\3D Cube Explorer Co-op\va1.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Portfolio\Portfolio\CompletedProjects\3D Cube Explorer Co-op\va1.0_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Portfolio\Portfolio\CompletedProjects\3D Cube Explorer Co-op\va1.0_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Portfolio\Portfolio\CompletedProjects\3D Cube Explorer Co-op\va1.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Portfolio\Portfolio\CompletedProjects\3D Cube Explorer Co-op\va1.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Portfolio\Portfolio\CompletedProjects\3D Cube Explorer Co-op\va1.0_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\Portfolio\Portfolio\CompletedProjects\3D Cube Explorer Co-op\va1.0_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Portfolio\Portfolio\CompletedProjects\3D Cube Explorer Co-op\va1.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Portfolio\Portfolio\CompletedProjects\3D Cube Explorer Co-op\va1.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Portfolio\Portfolio\CompletedProjects\3D Cube Explorer Co-op\va1.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Portfolio\Portfolio\CompletedProjects\3D Cube Explorer Co-op\va1.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Portfolio\Portfolio\CompletedProjects\3D Cube Explorer Co-op\va1.0_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Portfolio\Portfolio\CompletedProjects\3D Cube Explorer Co-op\va1.0_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.035 seconds
+desktop: 1920x1080 144Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Portfolio\Portfolio\CompletedProjects\3D Cube Explorer Co-op\va1.0_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Portfolio\Portfolio\CompletedProjects\3D Cube Explorer Co-op\va1.0_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: d0618 -> priority: 1 
+  Thread -> id: d111c -> priority: 1 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.844933 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 277.
+Total: 0.204288 ms (FindLiveObjects: 0.011520 ms CreateObjectMapping: 0.007680 ms MarkObjects: 0.179456 ms  DeleteObjects: 0.005376 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.327168 ms
+Boom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 977.
+Total: 0.314624 ms (FindLiveObjects: 0.050432 ms CreateObjectMapping: 0.019968 ms MarkObjects: 0.231168 ms  DeleteObjects: 0.012288 ms)
+
+Waiting on Player Two!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+You guys did it!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.631297 ms
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 278.
+Total: 0.251392 ms (FindLiveObjects: 0.010240 ms CreateObjectMapping: 0.020480 ms MarkObjects: 0.150272 ms  DeleteObjects: 0.070400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.379904 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3000.
+Total: 0.480768 ms (FindLiveObjects: 0.110848 ms CreateObjectMapping: 0.024832 ms MarkObjects: 0.318208 ms  DeleteObjects: 0.026368 ms)
+
+Waiting on Player One
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+You guys did it!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.380866 ms
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 278.
+Total: 0.308480 ms (FindLiveObjects: 0.010752 ms CreateObjectMapping: 0.009216 ms MarkObjects: 0.187136 ms  DeleteObjects: 0.100864 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.329728 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1309.
+Total: 0.238080 ms (FindLiveObjects: 0.032768 ms CreateObjectMapping: 0.015104 ms MarkObjects: 0.180480 ms  DeleteObjects: 0.009728 ms)
+
+Waiting on Player Two!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+You guys did it!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.918273 ms
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 278.
+Total: 0.252160 ms (FindLiveObjects: 0.011008 ms CreateObjectMapping: 0.009216 ms MarkObjects: 0.155904 ms  DeleteObjects: 0.075776 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.400128 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 318.
+Total: 0.188672 ms (FindLiveObjects: 0.010496 ms CreateObjectMapping: 0.009216 ms MarkObjects: 0.159232 ms  DeleteObjects: 0.009728 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.468992 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 281.
+Total: 0.282112 ms (FindLiveObjects: 0.026368 ms CreateObjectMapping: 0.018944 ms MarkObjects: 0.146944 ms  DeleteObjects: 0.089600 ms)
+

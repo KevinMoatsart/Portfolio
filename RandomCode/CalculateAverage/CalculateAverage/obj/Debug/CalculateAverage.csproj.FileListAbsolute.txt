@@ -1,0 +1,6 @@
+c:\users\kevin moatsart\documents\visual studio 2015\Projects\CalculateAverage\CalculateAverage\bin\Debug\CalculateAverage.exe.config
+c:\users\kevin moatsart\documents\visual studio 2015\Projects\CalculateAverage\CalculateAverage\bin\Debug\CalculateAverage.exe
+c:\users\kevin moatsart\documents\visual studio 2015\Projects\CalculateAverage\CalculateAverage\bin\Debug\CalculateAverage.pdb
+c:\users\kevin moatsart\documents\visual studio 2015\Projects\CalculateAverage\CalculateAverage\obj\Debug\CalculateAverage.csprojResolveAssemblyReference.cache
+c:\users\kevin moatsart\documents\visual studio 2015\Projects\CalculateAverage\CalculateAverage\obj\Debug\CalculateAverage.exe
+c:\users\kevin moatsart\documents\visual studio 2015\Projects\CalculateAverage\CalculateAverage\obj\Debug\CalculateAverage.pdb

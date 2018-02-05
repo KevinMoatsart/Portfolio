@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html class="no-js">
+  <head>
+    <meta charset="utf-8" />
+    <title>Games &amp Reviews</title>
+    <link rel="shortcut icon" href="favicon.ico" />
+    <link rel="stylesheet" type="text/css" media="screen" href="styles/gamereviews.css" />
+    <link rel="stylesheet" type="text/css" media="mobile" href="styles/gamereviewsmobile.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="styles/grform.css" />
+    <link rel="stylesheet" type="text/css" media="print" href="llprint.css" />
+    <link rel="shortcut icon" href="favicon.ico" />
+    <script src="scripts/modernizr-1.6.min.js"></script>
+	<script src="scripts/alert.js"></script>
+    <!--[if lt IE 7]>
+      <style type="text/css">
+        #mainnav {left: 0px;}
+        li img {left: -42px;}
+      </style>
+    <![endif]-->
+	
+	<!--[if IE]> <style type="text/css">     legend span {top: 0;}     legend {color: black;}     #submit {position: relative; left: -80px;}   </style> <![endif]-->
+  </head>
+  <body>
+    <div id="box">
+    <p id="skipnav"><a href="#main">Skip navigation</a></p> 
+    <h1>
+        <img src="images/banner.jpg" width="664" height="180" alt="game reviews" title="" />
+      </h1>
+      <nav>
+        <p id="mainnav">
+          <a href="index.html">Home</a> |
+          <a href="aboutus.html">About Us</a> |
+          <a href="newgames.html">New Games</a> |
+          <a href="reviewhome.html">Reviews</a> |
+          <a href="contact.html">Contact Us</a> |
+          <a href="devhome.html">Developers</a> |
+          <a href="http://www.gamespot.com/" target="_blank">Gamespot</a> |
+          <a href="http://www.ign.com/" target="_blank">IGN</a> |
+          <a href="http://www.metacritic.com/" target="_blank">MetaCritic</a>
+        </p>
+      </nav>
+      <article id="content">
+        <h2 id="main">Application</h2>
+		<form onsubmit="help()">
+			<fieldset id="contactinfo">
+				<legend><span>Contact Information </span></legend>
+				<label>
+				Name
+				<input type="text" name="name" id="nameinput" placeholder="First and last name" />
+				</label>
+				
+				<label>
+				Email
+				<input type="email" name="email" id="emailinput" placeholder="address@example.com" />
+				</label>
+				
+				<label>
+				Phone
+				<input type="text" name="phone" id="phoneinput" />
+				</label>
+			</fieldset>
+				
+			<fieldset id="additionalinfo">
+				<legend><span>Information </span></legend>
+				<label>
+				Feedback
+				<textarea id="feedback" name= "feedback" rows="4" cols="55"></textarea>
+				</label>
+				
+				<label>
+				special requests
+				<textarea id="feedback" name= "feedback" rows="4" cols="55"></textarea>
+				</label>
+				
+				<label>
+				other information
+				<textarea id="feedback" name= "feedback" rows="4" cols="55"></textarea>
+				</label>
+			</fieldset>
+			
+				
+			<fieldset id="submitbutton">
+				<legend><span>Contact Information </span></legend>
+				<input type="submit" id="submit" value="submit" />
+			</fieldset>
+		</form>
+      </article>
+      <footer>
+        <p id="contact">45 Game Road. <img src="images/flourish.gif" width="16" height="16" alt="" /> Marble, MN 55764 <img src="images/flourish.gif" width="16" height="16" alt="" /> (218) 555-5253</p>
+      </footer>
+    </div>
+	<p>Kevin Moats</p>
+  </body>
+</html>
